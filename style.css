@@ -1,0 +1,16 @@
+h1{
+    color: white;
+    background-color: red;
+    width: 100%;
+    margin-top: 0px !important;
+}
+
+body{
+    background-position: center;
+}
+
+a{
+    color: white;
+    margin-top: 60px;
+    width: 150px;
+}
